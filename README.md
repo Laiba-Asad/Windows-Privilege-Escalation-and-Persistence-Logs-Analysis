@@ -139,14 +139,6 @@ Attackers leveraged built-in Windows features to blend in with legitimate activi
 ## Conclusion
 
 This lab highlights how attackers escalate privileges and establish persistence using legitimate Windows features. It emphasizes the importance of monitoring system changes and privileged activity in a SOC environment.
-
+- 
 ---
-
-##  Author
-
-Laiba Asad
-CyberSecurity Engineer
-
-## 👤 Author
-
-Laiba Asad
+- Copyright © 2026 Laiba Asad (github.com/Laiba-Asad)
